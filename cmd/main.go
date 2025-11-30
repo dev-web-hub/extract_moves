@@ -4,7 +4,7 @@ import (
     "encoding/json"
     "fmt"
     "os"
-    "github.com/max/extract_moves/internal"
+    "yourverb/internal"
 )
 
 func main() {
